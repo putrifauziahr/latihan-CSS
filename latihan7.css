@@ -1,0 +1,45 @@
+font-family : Georgia, "Times New Roman", Times, Serif;
+font-size:12px;
+
+#main {
+	width : 800px;
+	margin : 0px 0px 0px 100px;
+}
+
+#header{
+	font-weight : bold;
+	padding : 10px 10px 10px;
+	background : #FFCC00;
+}
+
+#nav {
+	text-align : right;
+	padding : 0px 20px 0 px 0px;
+	background : #6666CC;
+}
+
+#middle {
+	clear : both;
+}
+#left {
+	float : left;
+	width : 180px;
+	padding : 5px 5px 5px 5px;
+} 
+
+#content {
+	float : left;
+	width : 350px;
+	padding : 10px 10px 10px 10px
+}
+
+#right{
+	float : left;
+	padding : 5px 5px 5px 5px;
+}
+
+#footer {
+	float : left;
+	padding : 10px 10px 10px 10px;
+	text-align : center;
+}
